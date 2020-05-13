@@ -3,3 +3,4 @@ print("Welcome to git")
 print("commit")
 i=i+2
 print (i)
+print ("after add")
